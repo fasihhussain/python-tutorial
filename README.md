@@ -10,3 +10,4 @@
 - Syntax (https://www.tutorialspoint.com/python3/index.htm)
 - Python Visualizer (https://pythontutor.com/visualize.html)
 - Visual Studio Code (https://code.visualstudio.com/)
+- A friend to help you (https://stackoverflow.com/)
