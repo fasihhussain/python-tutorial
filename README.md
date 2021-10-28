@@ -1,1 +1,12 @@
-# python-tutorial
+# Python Tutorial
+
+## Lectures
+
+
+<br><br>
+
+## References
+- Download Python (https://www.python.org/downloads/)
+- Syntax (https://www.tutorialspoint.com/python3/index.htm)
+- Python Visualizer (https://pythontutor.com/visualize.html)
+- Visual Studio Code (https://code.visualstudio.com/)
